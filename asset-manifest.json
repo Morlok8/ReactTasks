@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactTasks/static/css/main.29c12e2b.css",
+    "main.js": "/ReactTasks/static/js/main.86499954.js",
+    "static/js/453.ed3810f9.chunk.js": "/ReactTasks/static/js/453.ed3810f9.chunk.js",
+    "static/media/user_icon.png": "/ReactTasks/static/media/user_icon.ce2ccf8465384a31c443.png",
+    "static/media/password_icon.png": "/ReactTasks/static/media/password_icon.5007012fcad87dfb831c.png",
+    "static/media/email_icon.png": "/ReactTasks/static/media/email_icon.20ee6da854821eaab1de.png",
+    "static/media/logo.svg": "/ReactTasks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTasks/index.html",
+    "main.29c12e2b.css.map": "/ReactTasks/static/css/main.29c12e2b.css.map",
+    "main.86499954.js.map": "/ReactTasks/static/js/main.86499954.js.map",
+    "453.ed3810f9.chunk.js.map": "/ReactTasks/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c12e2b.css",
+    "static/js/main.86499954.js"
+  ]
+}
